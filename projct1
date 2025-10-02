@@ -1,1 +1,22 @@
 # vamshisai
+# #!/bin/bash
+# #Update and install Apache
+# apt-get update -y
+# apt-get upgrade -y
+# apt-get install apache2- y
+#
+# #Start and enable Apache
+# systemctl start apache2
+# systemctl enable apachez
+#
+# #Custom HTML page with your text
+# echo "<html>
+# <head><title>Infravyom 17 Technologies</title></head>
+# <body style="text-align:center; font-family: Arial, sans-serif;'>
+# <h1 style="color:blue;"> Welcome to Infravyom IT Technologies
+# <p>This EC2 instance is running on Ubuntu with Apache.</p>
+# </body>
+# </html>" > /var/www/html/index.htm
+
+
+   this is html
